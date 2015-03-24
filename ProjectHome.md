@@ -1,0 +1,1 @@
+proyecto terminal para obtención del titulo de ingenieria en computación y conclusion de la carrera
